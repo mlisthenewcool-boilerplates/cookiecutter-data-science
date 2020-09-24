@@ -1,0 +1,7 @@
+pytest    # https://github.com/pytest-dev/pytest         test units
+pylint    # https://github.com/PyCQA/pylint              linter
+black     # https://github.com/psf/black                 formatter
+mypy      # https://github.com/python/mypy               type checking
+click     # https://click.palletsprojects.com/en/7.x/    command line interfaces
+
+# -e .      # local package
