@@ -1,4 +1,8 @@
 '''
+Example on how to bootstrap on local and link to github.
+'''
+
+'''
 import subprocess
 
 subprocess.call(['git', 'init'])

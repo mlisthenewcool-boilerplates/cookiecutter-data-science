@@ -3,8 +3,5 @@
 	"author_name": "Hippolyte L. DEBERNARDI",
 	"description": "Enter...",
 	"license": ["MIT"],
-	"repository_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-	"github_user": "mlisthenewcool",
-	"should_push_to_github": ["False", "True"],
-	"should_have_notebooks": ["True", "False"]
+	"repository_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}"
 }
