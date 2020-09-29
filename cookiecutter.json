@@ -3,5 +3,5 @@
 	"author_name": "Hippolyte L. DEBERNARDI",
 	"description": "Enter...",
 	"license": ["MIT"],
-	"repository_name": "{{ cookiecutter.project_name.replace(' ', '-') }}"
+	"repository_name": "{{ cookiecutter.project_name.replace(' ', '') }}"
 }
