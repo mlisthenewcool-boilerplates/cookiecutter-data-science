@@ -23,7 +23,7 @@ function messageSuccess() {
 function dirExistsOrExecFunc() {
 	if [ ! -d "$1" ]; then
 		messageSuccess "$1 doesn't exist, create it ..."
-		$2 $1
+		$2 "$1"
 	else
 		messageSuccess "$1 does exist."
 	fi
